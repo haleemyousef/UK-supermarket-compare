@@ -1,2 +1,7 @@
-# UK_food_compare
-chrome extension where you can search for a food item and it will create a tab group with ALL big UK supermarkets for you to compare prices and quality.
+# To ADD the extension to your browser:
+- download the repo as zip file and extract
+- in chrome, go to about://extensions and click 'load unpacked'
+- select the extracted folder
+- done. use it responsibly and if you like send me a compliment.
+- CHEERS!!
+
