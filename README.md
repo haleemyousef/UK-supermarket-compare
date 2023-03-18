@@ -2,7 +2,7 @@
 
 - download the repo as zip file and extract
 - in chrome, go to about://extensions and click 'load unpacked'
-- select the extracted folder
+- select the extracted folder 'Groceries'
 - done. use it responsibly and if you like send me a compliment.
 - CHEERS!!
 
